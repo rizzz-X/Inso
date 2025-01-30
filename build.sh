@@ -6,24 +6,7 @@
 
 
 chipsets=(
-    "h5-orangepi-pc2" 
-    "h5-orangepi-prime"
-    "h5-orangepi-zeroplus" 
-    "h5-orangepi-zeroplus2"
-    "h616-orangepi-zero2"
-    "h618-orangepi-zero2w" 
-    "h618-orangepi-zero3"
-    "h6-orangepi-1plus"
-    "h6-orangepi-3"
-    "h6-orangepi-3lts"
-    "h6-orangepi-lite2" 
-    "rk3566-orangepi-3b" 
-    "rk3588-orangepi-5plus" 
-    "rk3588s-orangepi-5"
     "s905x"
-    "s905x2"
-    "s905x3"
-    "s905x4"
 )
 
 rootfs=(
